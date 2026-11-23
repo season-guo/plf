@@ -1,3 +1,3 @@
 -Q . PLF
 -arg -w
--arg -level-0-notation-not-closed,-closed-notation-not-level-0
+-arg -level-0-notation-not-closed,-closed-notation-not-level-0,-level-tolerance
